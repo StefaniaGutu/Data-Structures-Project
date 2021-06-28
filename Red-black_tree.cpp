@@ -1,4 +1,3 @@
-///Dobre Adriana-Lia, Guțu Ștefania-Alexandra, Pirlogea Luciana-Elena  - grupa 141
 #include <iostream>
 #include <fstream>
 
