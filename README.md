@@ -34,7 +34,8 @@ Red-Black tree is a ***self-balancing binary search tree*** in which each node c
 | k_element | O(n)       | O(n) |
 
 ### Example
-![example](https://user-images.githubusercontent.com/79320751/127782308-16fcf276-de8e-42a9-b694-8370941a7665.png)
+![exemplu_arboreRN](https://user-images.githubusercontent.com/79320751/127782359-955d3ce3-b2ad-4080-8c2b-bf7b3eb56be0.png)
+
 
 ### References
 - Introduction to Algorithms, Third Edition. Autori: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
